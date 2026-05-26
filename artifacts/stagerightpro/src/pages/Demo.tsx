@@ -39,6 +39,7 @@ export default function Demo() {
       
       return () => clearInterval(interval);
     }
+    return undefined;
   }, [step]);
 
   const handleDownload = () => {
