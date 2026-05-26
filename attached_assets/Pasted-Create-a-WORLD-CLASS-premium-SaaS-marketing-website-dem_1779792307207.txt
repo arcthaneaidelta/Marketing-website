@@ -1,0 +1,324 @@
+Create a WORLD CLASS premium SaaS marketing website demo for an AI virtual staging platform called “StageRightPro”.
+
+The website should feel like it belongs among the best modern SaaS websites on the internet.
+
+The final result should make clients emotionally react with:
+“this is insanely professional, polished, elegant and high-end.”
+
+DO NOT create generic AI-generated designs.
+DO NOT use neon gradients.
+DO NOT use glossy crypto-style visuals.
+DO NOT use childish animations.
+DO NOT use overly bright AI colors.
+
+The entire experience should feel:
+luxury,
+minimal,
+modern,
+cinematic,
+fast,
+intentional,
+smooth,
+and emotionally premium.
+
+====================================================
+CORE DESIGN DIRECTION
+
+The website aesthetic should combine inspiration from:
+
+Linear
+Stripe
+Vercel
+Framer
+Apple
+Notion
+Arc Browser
+Raycast
+Airbnb luxury visuals
+
+Style keywords:
+
+soft elegance
+premium SaaS
+cinematic UI
+calm interface
+expensive feeling
+professional real estate tech
+intelligent minimalism
+futuristic but subtle
+====================================================
+COLOR SYSTEM
+
+Use an extremely refined color palette.
+
+LIGHT MODE:
+
+warm white backgrounds
+soft beige/stone surfaces
+subtle gray borders
+muted charcoal text
+soft shadows only
+no harsh contrast
+
+DARK MODE:
+
+deep graphite backgrounds
+warm dark grays
+subtle elevation layers
+soft off-white typography
+low contrast glow accents ONLY when necessary
+
+Accent colors:
+
+muted champagne gold
+desaturated sage
+elegant muted blue-gray
+
+NO:
+
+neon blue
+bright purple
+oversaturated gradients
+glossy effects
+cyberpunk colors
+
+The UI should feel comfortable for long viewing sessions and easy on the eyes.
+
+====================================================
+TECH REQUIREMENTS
+
+Build using:
+
+Next.js
+Tailwind CSS
+Framer Motion
+TypeScript
+
+Architecture should be production quality.
+
+Performance requirements:
+
+maintain smooth 60fps
+avoid heavy animations
+optimize all transitions
+lazy load sections
+use optimized assets
+avoid layout shift
+minimal JS where possible
+
+Must be:
+
+fully responsive
+mobile optimized
+tablet optimized
+desktop optimized
+
+Breakpoints:
+375px
+768px
+1024px
+1280px
+1440px
+1920px
+
+====================================================
+CRITICAL UX REQUIREMENTS
+
+This website must feel ALIVE.
+
+Everything should have subtle micro interactions:
+
+hover transitions
+soft elevation
+button depth
+magnetic interactions
+smooth reveal animations
+subtle parallax
+animated section transitions
+elegant scroll behavior
+
+BUT:
+Animations must NEVER feel excessive.
+Everything should feel intentional and premium.
+
+Use:
+
+smooth fade-up animations
+staggered reveals
+subtle motion blur transitions
+soft scaling
+elegant hover glow
+cinematic scroll pacing
+
+NO:
+
+bouncing elements
+spinning cards
+excessive movement
+distracting animations
+====================================================
+LANDING PAGE STRUCTURE
+
+Create a complete high-converting homepage.
+
+Sections:
+
+PREMIUM HERO SECTION
+cinematic background
+subtle animated grid/noise texture
+elegant typography
+realistic SaaS mockup
+animated dashboard preview
+strong CTA
+trust indicators
+floating UI cards
+
+Headline should feel enterprise-grade and emotionally compelling.
+
+Add:
+
+animated before/after virtual staging slider
+subtle glassmorphism ONLY if elegant
+soft lighting effects
+TRUST SECTION
+logos
+testimonials
+review cards
+animated counters
+credibility stats
+FEATURES SECTION
+Beautiful SaaS feature showcase with:
+hover interactions
+animated cards
+clean icons
+interactive previews
+AI SHOWCASE SECTION
+Demonstrate:
+AI staging transformation
+upload flow
+staging preview
+furniture style switching
+room enhancement
+
+Make it visually breathtaking.
+
+SEO CONTENT BLOCKS
+Structure sections in a way that feels:
+Rank Math optimized
+semantic HTML
+conversion optimized
+accessible
+PRICING PREVIEW
+elegant pricing cards
+subtle hover animations
+premium layout
+extremely polished spacing
+FAQ SECTION
+animated accordions
+clean typography
+SEO optimized structure
+FINAL CTA SECTION
+This should feel emotional and premium.
+FOOTER
+Create one of the most beautiful SaaS footers possible.
+
+Include:
+
+elegant grid layout
+newsletter section
+contact section
+social links
+subtle background effects
+premium typography hierarchy
+====================================================
+ADVANCED INTERACTIONS
+
+Add:
+
+dark/light mode toggle with smooth transition
+animated cursor effects
+subtle scroll progress indicator
+loading screen with elegant animation
+animated page transitions
+smooth anchor scrolling
+premium button ripple effects
+floating navbar with backdrop blur
+elegant mobile menu animation
+====================================================
+TYPOGRAPHY
+
+Typography must feel premium and editorial.
+
+Use:
+
+Inter
+Plus Jakarta Sans
+General Sans
+or SF Pro style typography
+
+Typography hierarchy should feel:
+luxurious,
+clean,
+minimal,
+editorial,
+balanced.
+
+Use large breathing spaces.
+Perfect spacing rhythm.
+
+====================================================
+VISUAL QUALITY
+
+EVERYTHING should feel pixel-perfect.
+
+Pay extreme attention to:
+
+spacing
+shadows
+alignment
+border opacity
+animation timing
+visual rhythm
+section transitions
+responsive scaling
+
+The website should look award-winning.
+
+====================================================
+PERFORMANCE + SEO
+
+Must be:
+
+semantic HTML
+SEO optimized
+accessible
+Lighthouse optimized
+PageSpeed optimized
+
+Target:
+
+90+ PageSpeed mobile
+95+ desktop
+
+Implement:
+
+lazy loading
+optimized images
+proper heading hierarchy
+clean code splitting
+metadata structure
+schema-ready architecture
+====================================================
+IMPORTANT
+
+DO NOT create generic templates.
+DO NOT make it look AI-generated.
+DO NOT overuse gradients.
+DO NOT use trendy gimmicks.
+
+This should feel like a real premium SaaS company spent $50,000+ on branding and frontend engineering.
+
+The final experience should emotionally communicate:
+“high-end AI real estate platform trusted by professionals.”
+
+Make the design sophisticated enough to impress experienced startup founders, SaaS executives, and enterprise clients instantly.

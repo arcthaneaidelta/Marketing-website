@@ -1,0 +1,67 @@
+IMPORTANT:
+
+I want you to COMPLETE this entire project end-to-end without stopping midway or simplifying the frontend quality due to token/context limitations.
+
+If backend implementation becomes too large or unnecessary for the demo, then intelligently create a realistic production-grade mock backend or simulated backend architecture instead of leaving features incomplete.
+
+The priority is:
+
+1. insanely polished frontend
+2. premium UX/UI
+3. realistic interactions
+4. believable SaaS functionality
+5. visually complete experience
+
+For heavy backend systems:
+
+* use mock APIs
+* simulated database responses
+* demo authentication flow
+* fake upload processing
+* staged AI generation states
+* local JSON/data mocks
+* frontend state simulation
+
+But make EVERYTHING feel real and production-ready from the user perspective.
+
+DO NOT say:
+
+* “this requires backend implementation”
+* “token limit exceeded”
+* “out of context”
+* “unable to continue”
+* “placeholder left for later”
+
+Instead:
+
+* intelligently simplify backend complexity
+* preserve the illusion of a fully working SaaS platform
+* focus maximum effort on frontend polish and interaction quality
+
+The website should look and behave like a funded startup product demo.
+
+Even if some functionality is mocked internally, the experience must feel completely real to the client.
+
+Build everything with scalable architecture and clean structure so real backend integration can later be plugged in easily.
+
+I care MUCH MORE about:
+
+* visual execution
+* premium feel
+* animation quality
+* responsiveness
+* performance
+* UX polish
+* conversion psychology
+* SaaS credibility
+
+than actual production backend complexity for this demo.
+
+Frontend quality must feel world-class.
+The client should immediately think:
+“this freelancer understands premium product engineering and high-end SaaS experiences.”
+
+Do not reduce quality to save effort.
+Finish every section properly.
+Polish every interaction.
+Make the final result feel award-worthy.
