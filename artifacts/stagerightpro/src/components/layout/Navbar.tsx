@@ -47,7 +47,10 @@ export function Navbar() {
     >
       <div className="container mx-auto px-6 flex items-center justify-between">
         <Link href="/">
-          <div className="text-2xl font-bold tracking-tight cursor-pointer">
+          <div
+            className="text-xl tracking-tight cursor-pointer"
+            style={{ fontFamily: "var(--app-font-display)", fontWeight: 700 }}
+          >
             StageRight<span className="text-accent">Pro</span>
           </div>
         </Link>

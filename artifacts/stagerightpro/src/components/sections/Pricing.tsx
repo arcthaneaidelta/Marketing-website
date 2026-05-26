@@ -73,7 +73,7 @@ export function Pricing() {
           className="text-center mb-16"
         >
           <p className="text-sm font-semibold tracking-wider text-accent uppercase mb-3">Simple Pricing</p>
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6 tracking-tight">
+          <h2 className="text-3xl md:text-5xl text-foreground mb-6 tracking-tight" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
             Scale your business, not your costs.
           </h2>
           

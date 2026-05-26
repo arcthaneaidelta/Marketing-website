@@ -81,7 +81,7 @@ export function Showcase() {
           className="mb-12"
         >
           <p className="text-sm font-semibold tracking-wider text-accent uppercase mb-3">See the Transformation</p>
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6 tracking-tight">
+          <h2 className="text-3xl md:text-5xl text-foreground mb-6 tracking-tight" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
             From vacant to vibrant.
           </h2>
         </motion.div>

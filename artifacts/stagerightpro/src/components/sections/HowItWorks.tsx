@@ -70,7 +70,7 @@ export function HowItWorks() {
           className="text-center mb-20"
         >
           <p className="text-sm font-semibold tracking-wider text-accent uppercase mb-3">Simple Process</p>
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6 tracking-tight">
+          <h2 className="text-3xl md:text-5xl text-foreground mb-6 tracking-tight" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
             Staged in three steps.
           </h2>
         </motion.div>

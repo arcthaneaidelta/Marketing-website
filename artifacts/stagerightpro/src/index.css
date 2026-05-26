@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500;12..96,600;12..96,700;12..96,800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
 
 @import "tailwindcss";
 @import "tw-animate-css";
@@ -77,20 +77,20 @@
   --elevate-1: rgba(0,0,0, .03);
   --elevate-2: rgba(0,0,0, .08);
 
-  --background: 36 20% 98%;
-  --foreground: 220 15% 12%;
-  --card: 36 20% 96%;
-  --card-foreground: 220 15% 12%;
-  --card-border: 36 12% 88%;
-  --border: 36 12% 88%;
-  --primary: 220 20% 18%;
-  --primary-foreground: 36 20% 98%;
-  --secondary: 36 15% 93%;
-  --secondary-foreground: 220 15% 25%;
-  --muted: 36 10% 90%;
-  --muted-foreground: 220 10% 50%;
-  --accent: 38 45% 70%;
-  --accent-foreground: 220 15% 12%;
+  --background: 40 33% 89%;
+  --foreground: 36 25% 9%;
+  --card: 40 28% 92%;
+  --card-foreground: 36 25% 9%;
+  --card-border: 38 20% 80%;
+  --border: 38 18% 78%;
+  --primary: 36 25% 9%;
+  --primary-foreground: 40 33% 92%;
+  --secondary: 40 22% 85%;
+  --secondary-foreground: 36 20% 20%;
+  --muted: 40 20% 82%;
+  --muted-foreground: 36 15% 42%;
+  --accent: 38 42% 52%;
+  --accent-foreground: 40 33% 92%;
   --destructive: 0 72% 51%;
   --destructive-foreground: 0 0% 98%;
   --input: 36 12% 88%;
@@ -114,9 +114,10 @@
   --chart-4: 280 20% 55%;
   --chart-5: 20 35% 50%;
 
-  --app-font-sans: 'Plus Jakarta Sans', 'Inter', sans-serif;
-  --app-font-serif: Georgia, serif;
+  --app-font-sans: 'DM Sans', sans-serif;
+  --app-font-serif: 'Cormorant Garamond', Georgia, serif;
   --app-font-mono: 'JetBrains Mono', monospace;
+  --app-font-display: 'Bricolage Grotesque', sans-serif;
   --radius: .75rem;
 
   --shadow-2xs: 0px 4px 24px 0px hsl(220 15% 8% / 0.08);

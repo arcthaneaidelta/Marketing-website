@@ -19,8 +19,15 @@ export function FinalCTA() {
           transition={{ duration: 0.8 }}
           className="max-w-3xl mx-auto"
         >
-          <h2 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight leading-tight">
-            Your next listing <br/><span className="font-serif italic text-accent font-normal">deserves better.</span>
+          <h2
+            className="text-4xl md:text-6xl mb-6 tracking-tight leading-tight"
+            style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}
+          >
+            Your next listing <br/>
+            <span
+              className="italic font-normal text-accent"
+              style={{ fontFamily: "var(--app-font-serif)", fontWeight: 400, fontSize: "0.95em" }}
+            >deserves better.</span>
           </h2>
           <p className="text-lg md:text-xl text-primary-foreground/80 mb-10 font-light leading-relaxed">
             Join 8,000+ real estate professionals who've transformed their listings, decreased time-on-market, and elevated their brand with StageRightPro.

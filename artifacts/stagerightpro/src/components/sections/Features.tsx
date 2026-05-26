@@ -67,7 +67,7 @@ export function Features() {
             transition={{ duration: 0.6 }}
           >
             <p className="text-sm font-semibold tracking-wider text-accent uppercase mb-3">Platform Capabilities</p>
-            <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6 tracking-tight">
+            <h2 className="text-3xl md:text-5xl text-foreground mb-6 tracking-tight" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
               Everything you need to stage at scale.
             </h2>
             <p className="text-lg text-muted-foreground font-light leading-relaxed">

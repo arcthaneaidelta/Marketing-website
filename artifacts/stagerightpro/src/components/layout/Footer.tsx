@@ -10,7 +10,10 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8 mb-16">
           <div className="space-y-6">
             <Link href="/">
-              <div className="text-2xl font-bold tracking-tight cursor-pointer">
+              <div
+                className="text-xl tracking-tight cursor-pointer"
+                style={{ fontFamily: "var(--app-font-display)", fontWeight: 700 }}
+              >
                 StageRight<span className="text-accent">Pro</span>
               </div>
             </Link>

@@ -79,19 +79,19 @@ export function Trust() {
         {/* Stats */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 py-16 border-t border-b border-border/50 my-16 max-w-5xl mx-auto">
           <div className="text-center">
-            <div className="text-4xl md:text-5xl font-bold text-foreground mb-2 flex items-center justify-center">
+            <div className="text-4xl md:text-5xl text-foreground mb-2 flex items-center justify-center" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
               {agents.toLocaleString()}+
             </div>
             <div className="text-sm text-muted-foreground font-medium uppercase tracking-wider">Agents Worldwide</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl md:text-5xl font-bold text-foreground mb-2 flex items-center justify-center">
+            <div className="text-4xl md:text-5xl text-foreground mb-2 flex items-center justify-center" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
               {(rooms / 1000000).toFixed(1)}M
             </div>
             <div className="text-sm text-muted-foreground font-medium uppercase tracking-wider">Rooms Staged</div>
           </div>
           <div className="text-center">
-            <div className="text-4xl md:text-5xl font-bold text-foreground mb-2 flex items-center justify-center">
+            <div className="text-4xl md:text-5xl text-foreground mb-2 flex items-center justify-center" style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}>
               {faster}%
             </div>
             <div className="text-sm text-muted-foreground font-medium uppercase tracking-wider">Faster Than Traditional</div>

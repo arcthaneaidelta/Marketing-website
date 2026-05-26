@@ -71,9 +71,15 @@ export function Hero() {
             StageRightPro v2.0 is now live
           </div>
           
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground mb-6 leading-[1.1]">
+          <h1
+            className="text-5xl md:text-7xl lg:text-8xl tracking-tight text-foreground mb-6 leading-[1.1]"
+            style={{ fontFamily: "var(--app-font-display)", fontWeight: 800 }}
+          >
             Virtual Staging,<br />
-            <span className="font-serif italic font-normal text-primary">Reimagined.</span>
+            <span
+              className="italic font-normal text-foreground/90"
+              style={{ fontFamily: "var(--app-font-serif)", fontWeight: 400, fontSize: "0.95em" }}
+            >Reimagined.</span>
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-10 max-w-2xl mx-auto font-light leading-relaxed">
