@@ -1,6 +1,6 @@
 [build]
   command = "pnpm run build"
-  publish = "artifacts/stagerightpro/dist"
+  publish = "artifacts/stagerightpro/dist/public"
 
 [build.environment]
   NODE_VERSION = "20"
